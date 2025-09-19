@@ -31,7 +31,7 @@ Agora, você pode iniciar o gerador com o seguinte comando. Isso abrirá a inter
 
 Use no terminal o npm script "npm run start"
 
-#####################
+---
 
 ✨ Funcionalidades
 O script irá guiar você através das seguintes opções:
